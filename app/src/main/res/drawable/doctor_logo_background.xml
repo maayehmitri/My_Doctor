@@ -1,0 +1,6 @@
+<!-- res/drawable/doctor_logo_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/colorPrimary"/> <!-- Change colorPrimary to your preferred color -->
+    <corners android:radius="8dp"/> <!-- Adjust the radius as needed for the rounded corners -->
+</shape>

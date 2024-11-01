@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="patientsRecyclerView" type="id" />
+    <item name="requestsRecyclerView" type="id" />
+    <item name="buttonsLayout" type="id" />
+</resources>
